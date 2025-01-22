@@ -8,7 +8,7 @@ I'm **Eggadi Ranjith**, a passionate **Data Analyst** and **Full-Stack Developer
 - 🌱 Continuously learning **Machine Learning** and advanced web technologies  
 - 👯 Open to collaborating on **open-source projects** and innovative solutions  
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/eggadiranjith/](https://www.linkedin.com/in/ranjitheggadi/))  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ranjitheggadi/)  
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/EggadiRanjith)  
 - ⚡ Fun fact: I enjoy exploring new tools and optimizing workflows for efficiency!  
 
