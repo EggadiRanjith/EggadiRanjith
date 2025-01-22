@@ -1,5 +1,5 @@
 ## Hello, I'm **Eggadi Ranjith** 👋  
-I'm a passionate **Data Analyst** and **Full-Stack Developer** with a solid foundation in **Python**, **SQL**, **Django**, and **React Native**. I am actively looking for opportunities to contribute to innovative projects and leverage my technical skills to make a positive impact.
+I'm a passionate **Data Analyst** and **Full-Stack Developer** with a solid foundation in **Python**, **SQL**, **Django**, **React Native**, and **Data Visualization** tools like **Pandas**,**Numpy**,**Power BI**, **Matplotlib**, **Seaborn**. I am actively looking for opportunities to contribute to innovative projects and leverage my technical skills to make a positive impact.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69732704/210936720-5fcefa9d-8313-4bc6-89ae-99ff85cb2f91.gif" alt="Coding" width="60%" height="auto">
@@ -26,6 +26,8 @@ I'm a passionate **Data Analyst** and **Full-Stack Developer** with a solid foun
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-FF7F0E?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-5D8B4C?style=flat&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
 
 ---
