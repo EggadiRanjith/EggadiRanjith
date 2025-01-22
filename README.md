@@ -1,5 +1,9 @@
 ## Hi there 👋  
-I'm **Eggadi Ranjith**, a passionate **Data Analyst** and **Full-Stack Developer** skilled in **Python**, **SQL**, **Django**,**React**,**Data-Analayst. As a fresher, I am eager to apply my technical skills and problem-solving abilities to contribute to impactful projects.
+I'm **Eggadi Ranjith**, a passionate **Data Analyst** and **Full-Stack Developer** skilled in **Python**, **SQL**, **Django**, and **React Native**. As a fresher, I am eager to apply my technical skills and problem-solving abilities to contribute to impactful projects.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600">
+</p>
 
 ---
 
@@ -35,16 +39,9 @@ Here are some of my notable projects:
 - **Digital Library System**: A solution for managing digital book collections. Developed with **Django** and **Python**.  
 - **CarRental**: An efficient car rental booking system using **React** and **Node.js**.  
 
----
-### 🏆 GitHub Stats  
-![Eggadi Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=EggadiRanjith&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EggadiRanjith&layout=compact)](https://github.com/EggadiRanjith)
-
----
-
-### 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eggadi-ranjith/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/EggadiRanjith)  
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Projects" width="600">
+</p>
 
 ---
 
@@ -57,3 +54,21 @@ Here are some of my notable projects:
     <img src="https://img.shields.io/badge/GitHub-Follow-black" alt="GitHub">
   </a>
 </p>
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EggadiRanjith&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EggadiRanjith&theme=radical" alt="GitHub Streak" width="400">
+</p>
+
+---
+
+### ✨ Fun Quote  
+> "Code is like humor. When you have to explain it, it’s bad."  
+
+---
+
+### 🎉 Thank You for Visiting!  
+Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
