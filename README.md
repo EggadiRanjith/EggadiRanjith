@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Eggadi Ranjith**, a passionate **Data Analyst** and **Full-Stack Developer** skilled in **Python**, **SQL**, **Django**, and **React Native**. As a fresher, I am eager to apply my technical skills and problem-solving abilities to contribute to impactful projects.
+I'm **Eggadi Ranjith**, a passionate **Data Analyst** and **Full-Stack Developer** skilled in **Python**, **SQL**, **Django**,**React**,**Data-Analayst. As a fresher, I am eager to apply my technical skills and problem-solving abilities to contribute to impactful projects.
 
 ---
 
